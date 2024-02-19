@@ -9,30 +9,36 @@
 
 <p>Explore the intricate world of baseball analytics, leveraging data-driven approaches to enhance team performance and strategic decision-making.</p>
 
-<h2>HR Analytics Project_3- Understanding the Attrition in HR.ipynb</h2>
+<h2>Phase 1: HR Analytics Project_3- Understanding the Attrition in HR.ipynb</h2>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkSJfGLbYwf_5n20p8L_jo951xqtlsX1zPtA&usqp=CAU" alt="HR Attrition">
 
 <p>Gain deep insights into employee attrition patterns and factors influencing workforce retention, vital for HR professionals and organizational leaders.</p>
 
-<h2>Phase 1: Global_Power_Plant.ipynb</h2>
+<h2>Phase 2: Global_Power_Plant.ipynb</h2>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4wmMIGXwPVPXT71LC4mM5Ab09ksFIANuEQ&usqp=CA" alt="Global power">
 <p>Delve into the dynamics of global power plants, analyzing energy generation sources and geographical distribution for informed energy policy decisions.</p>
 
-<h2>Loan_Application_Status_Prediction.ipynb</h2>
+<h2>Phase 2: Loan_Application_Status_Prediction.ipynb</h2>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWbfpiS8S-crmFxwL2Ug73MZT0_Ta6LfSmZA&usqp=CAU" alt="Loan Application">
 <p>Harness predictive modeling techniques to forecast loan application outcomes, empowering financial institutions with risk assessment capabilities.</p>
 
-<h2>Temperature_Forecast_Project .ipynb</h2>
+<h2>Phase 2: Temperature_Forecast_Project .ipynb</h2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqPLJrouaPvFDJO-lQrXoTlimEtRFxBxvnbw&usqp=CAU">
 <p>Forecast temperature variations with precision using advanced time-series analysis, crucial for meteorologists and climate scientists.</p>
 
-<h2>Census_Income.ipynb</h2>
+<h2>Phase 3: Census_Income.ipynb</h2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI_jsO_0gBAlUnzHJh6YlILoaxSF6pppYCkg&usqp=CAU">
 <p>Uncover socioeconomic trends and income disparities through comprehensive analysis of census data, informing policymakers and social researchers.</p>
 
-<h2>Insurance_Claim_Fraud_Detection.ipynb</h2>
+<h2>Phase 3: Insurance_Claim_Fraud_Detection.ipynb</h2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwvu3QyoRduDTcCKVDbaQV280hmLYY14d-ag&usqp=CAU">
 <p>Combat insurance fraud through sophisticated detection algorithms, safeguarding insurers from financial losses and preserving trust in the industry.</p>
 
-<h2>Rainfall_Weather_Forecasting.ipynb</h2>
+<h2>Phase 3: Rainfall_Weather_Forecasting.ipynb</h2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBMvG0XeaSB7jJs49-ry6IVJQI8xxWZPUX1A&usqp=CAU">
+
 <p>Predict rainfall patterns and weather conditions with accuracy, aiding disaster preparedness and agricultural planning efforts.</p>
 
-<h2>Zomato_Restaurant.ipynb</h2>
+<h2>Phase 3: Zomato_Restaurant.ipynb</h2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMnKvm4Nb8QyDLHrhD8W1bHQFLaG0o3SBVQ&usqp=CAU">
 <p>Navigate the complex landscape of restaurant data with a comprehensive analysis of Zomato listings, offering valuable insights for restaurateurs and food enthusiasts alike.</p>
