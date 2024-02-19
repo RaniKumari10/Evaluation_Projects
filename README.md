@@ -10,6 +10,8 @@
 <p>Explore the intricate world of baseball analytics, leveraging data-driven approaches to enhance team performance and strategic decision-making.</p>
 
 <h2>HR Analytics Project_3- Understanding the Attrition in HR.ipynb</h2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkSJfGLbYwf_5n20p8L_jo951xqtlsX1zPtA&usqp=CAU" alt="HR Attrition">
+
 <p>Gain deep insights into employee attrition patterns and factors influencing workforce retention, vital for HR professionals and organizational leaders.</p>
 
 <h2>Global_Power_Plant.ipynb</h2>
