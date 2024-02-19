@@ -1,10 +1,10 @@
 <h1>Evaluation Projects</h1>
 
-<h2>Avocado_Project_2.ipynb</h2>
+<h2>Phase 1: Avocado_Project_2.ipynb</h2>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYnq-R5G7RaxGHQ3xDMbLPrgP7iowNx2KyA&usqp=CAU" alt="Avocado Project">
 <p>Dive into the analysis of avocado pricing trends, uncovering valuable insights for stakeholders in the agricultural industry.</p>
 
-<h2>Baseball Case Study_Project_1.ipynb</h2>
+<h2>Phase 1: Baseball Case Study_Project_1.ipynb</h2>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTNwtSmGveasnGt9NZZX-Oo5-fDOncX0kB_g&usqp=CAU" alt="Base ball">
 
 <p>Explore the intricate world of baseball analytics, leveraging data-driven approaches to enhance team performance and strategic decision-making.</p>
@@ -14,7 +14,7 @@
 
 <p>Gain deep insights into employee attrition patterns and factors influencing workforce retention, vital for HR professionals and organizational leaders.</p>
 
-<h2>Global_Power_Plant.ipynb</h2>
+<h2>Phase 1: Global_Power_Plant.ipynb</h2>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4wmMIGXwPVPXT71LC4mM5Ab09ksFIANuEQ&usqp=CA" alt="Global power">
 <p>Delve into the dynamics of global power plants, analyzing energy generation sources and geographical distribution for informed energy policy decisions.</p>
 
