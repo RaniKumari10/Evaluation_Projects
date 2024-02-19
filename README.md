@@ -5,7 +5,7 @@
 <p>Dive into the analysis of avocado pricing trends, uncovering valuable insights for stakeholders in the agricultural industry.</p>
 
 <h2>Baseball Case Study_Project_1.ipynb</h2>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAN8A…y+Rh8UVQwbLW63W7NcKP3f6qTX3/54hfpAAAAAElFTkSuQmCC" alt="Base ball">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTNwtSmGveasnGt9NZZX-Oo5-fDOncX0kB_g&usqp=CAU" alt="Base ball">
 
 <p>Explore the intricate world of baseball analytics, leveraging data-driven approaches to enhance team performance and strategic decision-making.</p>
 
