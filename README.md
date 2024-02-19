@@ -19,7 +19,7 @@
 <p>Delve into the dynamics of global power plants, analyzing energy generation sources and geographical distribution for informed energy policy decisions.</p>
 
 <h2>Loan_Application_Status_Prediction.ipynb</h2>
-<img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD…a4IuTkRO/TwDj+9f/AJ2zoRAMaLYWJJ6Ta/omSIgCIiAf/9k=" alt="Loan Application">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWbfpiS8S-crmFxwL2Ug73MZT0_Ta6LfSmZA&usqp=CAU" alt="Loan Application">
 <p>Harness predictive modeling techniques to forecast loan application outcomes, empowering financial institutions with risk assessment capabilities.</p>
 
 <h2>Temperature_Forecast_Project .ipynb</h2>
