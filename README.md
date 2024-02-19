@@ -5,6 +5,8 @@
 <p>Dive into the analysis of avocado pricing trends, uncovering valuable insights for stakeholders in the agricultural industry.</p>
 
 <h2>Baseball Case Study_Project_1.ipynb</h2>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAN8A…y+Rh8UVQwbLW63W7NcKP3f6qTX3/54hfpAAAAAElFTkSuQmCC" alt="Base ball">
+
 <p>Explore the intricate world of baseball analytics, leveraging data-driven approaches to enhance team performance and strategic decision-making.</p>
 
 <h2>HR Analytics Project_3- Understanding the Attrition in HR.ipynb</h2>
