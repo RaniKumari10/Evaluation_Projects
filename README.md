@@ -1,6 +1,7 @@
 <h1>Evaluation Projects</h1>
 
 <h2>Avocado_Project_2.ipynb</h2>
+<img src="https://raw.githubusercontent.com/username/repo/main/images/avocado_project_image.png" alt="Avocado Project">
 <p>Dive into the analysis of avocado pricing trends, uncovering valuable insights for stakeholders in the agricultural industry.</p>
 
 <h2>Baseball Case Study_Project_1.ipynb</h2>
